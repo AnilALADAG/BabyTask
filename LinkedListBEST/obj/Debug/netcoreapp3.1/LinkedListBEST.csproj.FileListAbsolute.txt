@@ -1,0 +1,14 @@
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\bin\Debug\netcoreapp3.1\LinkedListBEST.exe
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\bin\Debug\netcoreapp3.1\LinkedListBEST.deps.json
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\bin\Debug\netcoreapp3.1\LinkedListBEST.runtimeconfig.json
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\bin\Debug\netcoreapp3.1\LinkedListBEST.runtimeconfig.dev.json
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\bin\Debug\netcoreapp3.1\LinkedListBEST.dll
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\bin\Debug\netcoreapp3.1\LinkedListBEST.pdb
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.csproj.AssemblyReference.cache
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.AssemblyInfoInputs.cache
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.AssemblyInfo.cs
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.csproj.CoreCompileInputs.cache
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.dll
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.pdb
+D:\Users\anila\VSprojects\LinkedListBEST\LinkedListBEST\obj\Debug\netcoreapp3.1\LinkedListBEST.genruntimeconfig.cache

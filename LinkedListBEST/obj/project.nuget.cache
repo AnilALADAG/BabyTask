@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+gyXH1vACejgfxV29lOvYowQ3ha80ZGlCWUZ/yFiDvabglCIvFMNv+9fYjg86YYB8R/WVQ/GqA3u201pdIRFhQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\anila\\VSprojects\\LinkedListBEST\\LinkedListBEST\\LinkedListBEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
